@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rabi Shrestha
 - 👀 I’m interested in Remote Sensing, Open Street Map, Cadastre, Photogrammetry, Cartography, Open Data and Geospatial domain.
-- 🌱 I’m currently learning Remote Sensing and Open data.
+- 🌱 I’m currently learning Remote Sensing and Open data mapping.
 - 💞️ I’m recipient of Humanitarian Openstreetmap Microgrante & HOT Data Quality Intern.
 - 📫 How to reach me ...
 
